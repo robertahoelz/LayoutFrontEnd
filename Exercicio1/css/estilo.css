@@ -1,0 +1,38 @@
+header {
+    background-color: rgb(56, 228, 93);
+    width: 100%;
+    height: 60px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 700;
+    align-items: center;
+}
+p {
+    background-color: rgb(76, 43, 226);
+    width: 100%;
+    height: 60px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 700;
+    align-items: center; 
+}
+
+main {
+    background-color: rgb(43, 220, 226);
+    width: 100%;
+    height: 400px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 700;
+    align-items: center; 
+}
+
+footer {
+    background-color: rgb(159, 43, 226);
+    width: 100%;
+    height: 60px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 700;
+    align-items: center; 
+}
